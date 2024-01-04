@@ -1,0 +1,35 @@
+.main-user-container {
+    height: 13vh;
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-user-name-container {
+    height: 5vh;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    color: white;
+}
+
+.main-logo-container {
+    height: 56vh;
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.main-content-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ant-menu-submenu-arrow::after,.ant-menu-submenu-arrow::before{
+    display: none;
+}

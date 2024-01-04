@@ -1,0 +1,45 @@
+.device-info-container {
+    height: 100vh;
+    width: 85vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.device-info-header-container {
+    height: 10vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+}
+
+.device-info-body-container {
+    height: 45vh;
+    width: 82vw;
+    background: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.device-info-intro-container {
+    height: 40vh;
+    width: 80vw;
+}
+
+.device-info-blank-container {
+    height: 3vh;
+    width: 82vw;
+}
+
+.device-info-statistics-container {
+    height: 39vh;
+    width: 82vw;
+    background: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

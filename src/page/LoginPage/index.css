@@ -1,0 +1,31 @@
+.login-background-container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../image/login.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.login-body-container {
+    display: flex;
+    width: 25vw;
+    height: 75vh;
+    flex-direction: column;
+}
+
+.login-header-container {
+    display: flex;
+    width: 25vw;
+    height: 15vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form-container {
+    display: flex;
+    width: 25vw;
+    height: 50vh;
+}

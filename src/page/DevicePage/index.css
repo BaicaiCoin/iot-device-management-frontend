@@ -1,0 +1,61 @@
+.device-container {
+    height: 100vh;
+    width: 85vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.device-header-container {
+    height: 10vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+}
+
+.device-body-container {
+    height: 87vh;
+    width: 82vw;
+    background: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.device-add-container {
+    height: 10vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+}
+
+.device-add-child-container {
+    height: 10vh;
+    width: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.device-table-container {
+    height: 75vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.device-button-container {
+    height: 75vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.device-add-input-header {
+    height: 5vh;
+    width: 6vw;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
